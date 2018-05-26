@@ -1,6 +1,6 @@
 {
   "name": "online-mean",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Online mean calculation",
   "main": "index.js",
   "scripts": {
