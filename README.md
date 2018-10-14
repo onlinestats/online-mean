@@ -2,7 +2,7 @@
 Online mean calculation (piece-by-piece)
 
 ## Usage
-```
+```javascript
 const Mean = require('online-mean')
 
 // Create a new mean object calling Mean() or new Mean()
