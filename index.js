@@ -16,7 +16,7 @@ function Mean () {
     } else if (Array.isArray(x)) {
       x.forEach(el => mean(el))
     }
-    return mean.value
+    return value
   }
 
   mean.fit = function (x) {
